@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://github.com/srbenson1/assets/blob/main/github-header-image.png?raw=true)
+![I am GitHub Readme Generator's creator](https://github.com/srbenson1/srbenson1/blob/main/assets/github-header-image.png)
 
 I'm mostly using GitHub to build and submit assignments, but I'm also looking to engage in the development community and get some experience contributing to interesting open-source projects.
 
